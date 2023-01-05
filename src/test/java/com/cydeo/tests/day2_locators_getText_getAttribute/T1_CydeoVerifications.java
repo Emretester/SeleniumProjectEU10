@@ -44,8 +44,6 @@ public class T1_CydeoVerifications {
 
         driver.quit();
 
-        //break 15mins: 10.10am cST
-        //break 15mins: 11.10am EST
 
     }
 
