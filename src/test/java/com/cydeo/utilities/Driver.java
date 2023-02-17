@@ -21,6 +21,7 @@ public class Driver {
      */
     private static WebDriver driver; // value is null by default
 
+
     /*
     Create a re-usable utility method which will return same driver instance when we call it
      */
