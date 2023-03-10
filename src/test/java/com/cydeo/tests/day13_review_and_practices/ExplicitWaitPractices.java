@@ -79,7 +79,6 @@ public class ExplicitWaitPractices {
 
         //Check the String value is matching as expected: “It’s enabled!”
         Assert.assertTrue(dynamicControlsPage.message.getText().equals("It's enabled!"));
-
     }
 
 
